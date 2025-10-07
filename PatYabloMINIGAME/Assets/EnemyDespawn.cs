@@ -14,6 +14,6 @@ public class EnemyDespawn : MonoBehaviour
     void Despawn()
     {
         // Destroy the enemy GameObject
-        Destroy(gameObject);
+      
     }
 }
